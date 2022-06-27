@@ -670,19 +670,6 @@ class Application(Frame):
         initdir = ""
 # aed 25/9/18
         if currFolder == "":
-# Check which drive the server is mapped to
-##            initdir = os.curdir
-##            for drive in "GHIJKLMNOPQRSTUVWXYZ":
-##                if os.path.exists(drive + ":\ERIC North East\ERIC Data Services\Commercial Data Requests\\"):
-##                    initdir = drive +":\ERIC North East\ERIC Data Services\Commercial Data Requests\\"
-##                    break
-##
-##
-##
-##            cons = self.consultancy.get()
-##            if cons <> "" and cons in self.clientDict.keys():
-##               consFolder = self.clientDict.get(cons)[0]
-##               initdir += consFolder + "\\"
 # aed 03/08/20 - for working at home use init dir from config file
             exec(self.dir_config)
             initdir = "I:\ERIC\Data requests\Script"
@@ -1666,45 +1653,7 @@ additional information of interest to you.\n"
         bird = ["barn owl"]
         other_non_bird = []
 
-        #AED 25/3/19
-
-        #AED 10/02/21
-##        if DurhamBirdDataFound:
-##            if DBCArea and ((self.repType.get() != 'ss') or (self.singleSpec.get().lower() not in (newts+badger+bats+other_non_bird))):
-##                emFile.write(self.DurhamBirdText)
-##            elif (self.repType.get() != 'ss') or (self.singleSpec.get().lower() not in newts+badger+bats+other_non_bird):
-##                emFile.write(self.DurhamBird_OA_Text)
-##            if TBCArea:
-##                if (self.repType.get() != 'ss') or (self.singleSpec.get().lower() not in (badger+bats+newts+other_non_bird+bird)):
-##                    emFile.write(self.TeesmouthBirdBatBadgerText)
-##                elif (self.repType.get() == 'ss') and (self.singleSpec.get().lower() in (bird)):
-##                    emFile.write(self.TeesmouthBirdText)
-##                elif (self.repType.get() == 'ss') and (self.singleSpec.get().lower() in (badger)):
-##                    emFile.write(self.DurhamBadgerText)
-##                elif (self.repType.get() == 'ss') and (self.singleSpec.get().lower() in (bats)):
-##                    emFile.write(self.DurhamBatText)
-##            elif NTBCArea:
-##                if DBCArea and ((self.repType.get() != 'ss') or (self.singleSpec.get().lower() not in (newts+badger+bats+other_non_bird))):
-##                    emFile.write(self.DurhamBatBadgerNorthumberlandBatBadgerBirdText)
-##                elif (self.repType.get() == 'ss') and self.singleSpec.get().lower() in badger:
-##                    emFile.write(self.NorthumberlandBadgerText)
-##                elif (self.repType.get() == 'ss') and self.singleSpec.get().lower() in bats:
-##                    emFile.write(self.NorthumberlandBatText)
-##                else:
-##                    if ((self.repType.get() != 'ss') or (self.singleSpec.get().lower() not in (newts+badger+bats+other_non_bird))):
-##                        emFile.write(self.NorthumberlandBatBadgerBirdText)
-##                    elif (self.repType.get() == 'ss') and self.singleSpec.get().lower() in badger:
-##                        emFile.write(self.NorthumberlandBadgerText)
-##                    elif (self.repType.get() == 'ss') and self.singleSpec.get().lower() in bats:
-##                        emFile.write(self.NorthumberlandBatText)
-##            else:
-##                if ((self.repType.get() != 'ss') or (self.singleSpec.get().lower() not in (newts+badger+bats+other_non_bird))):
-##                    emFile.write(self.DurhamBatBadgerText)
-##                elif (self.repType.get() == 'ss') and (self.singleSpec.get().lower() in (badger)):
-##                    emFile.write(self.DurhamBadgerText)
-##                elif (self.repType.get() == 'ss') and (self.singleSpec.get().lower() in (bats)):
-##                    emFile.write(self.DurhamBatText)
-##        else:    # Not Durham Bird Club
+ 
         if NTBCArea:
 
             if ((self.repType.get() != 'ss') or (self.singleSpec.get().lower() not in (newts+badger+bats+other_non_bird+bird))):
