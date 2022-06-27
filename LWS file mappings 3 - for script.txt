@@ -1,0 +1,634 @@
+SITENAME	SITEID	Local Authority	Filename including path
+Pontburn Wood	1.1	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.1 Pontburn Wood.pdf
+West Wood	1.10	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.10 West Wood.pdf
+Sodfine and Howden Wood	1.11	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.11 Sodfine & Howden Woods.pdf
+Knitsley and High House Wood	1.12	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.12 Knitsley & High House Woods.pdf
+Butsfield and Quick Burn	1.13	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.13 Butsfield and Quick Burn.pdf
+Black Plantation	1.14	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.14 Black Plantation.pdf
+Pan Burn Woods	1.15	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.15 Pan Burn Woods.pdf
+Upper Deerness Valley	1.16	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.16 Upper Deerness Valley.pdf
+Burnhope Pond	1.17	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.17 Burnhope Pond.pdf
+Whiteside Burn Wood	1.18	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.18 Whiteside Burn Wood.pdf
+Pontop Fell	1.19	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.19 Pontop Fell.pdf
+Causey Burn Wood (1)	1.2	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.2 Causey Burn Wood.pdf
+Causey Burn Wood (2)	1.2	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.2 Causey Burn Wood.pdf
+Burnopfield Meadow	1.20	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.20 Burnopfield Meadow.pdf
+Greenwell Ford Meadow	1.21	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.21 Greenwell Ford Meadow.pdf
+Hedleyhope Fell	1.22	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.22 Hedleyhope Fell.pdf
+Leapmill Burn Meadow	1.23	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.23 Leapmill Burn Meadow.pdf
+Stuartfield Moor	1.24	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.24 Stuartfield Moor.pdf
+Ragpath Heath	1.25	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.25 Ragpath Heath.pdf
+South Stanley Wood	1.26	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.26 South Stanley Wood.pdf
+Westlaw Wood and Spa Well Paddock	1.27	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.27 Westlaw Wood and Spa Well Paddock.pdf
+Hellhole Wood	1.28	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.28 Hellhole Wood.pdf
+Loves Wood and Malton	1.29	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.29 Loves Wood & Malton Nature Reserve.pdf
+Burnhope Burn Wood	1.3	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.3 Burnhope Burn Wood.pdf
+Hedleyhill Colliery Wood	1.30	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.30 Hedleyhill Colliery Wood.pdf
+Beckley Wood	1.31	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.31 Beckley Wood.pdf
+Broomhill Dene	1.32	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.32 Broomhill Dene.pdf
+Tanfield Lea Marsh	1.33	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.33 Tanfield Lea Marsh.pdf
+Briardene Meadow	1.34	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.34 Briardene Meadow.pdf
+Morrow Edge Heath and Quaking Houses Fell	1.35	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.35 Morrow Edge Heath and Quaking Houses Fell.pdf
+Kyo Bogs	1.36	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.36 Kyo Bogs.pdf
+Stony Heap/Batling Lime Kiln	1.37	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.37 Stony Heap Batling Lime Kilns.pdf
+Ewehurst Wood	1.38	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.38 Ewehurst Wood.pdf
+Harperley and Pea Woods	1.39	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.39 Harperley & Pea Woods.pdf
+Muggleswick Marsh	1.4	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.4 Muggleswick Marsh.pdf
+Harelaw Heath	1.40	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.40 Harelaw Heath.pdf
+Middles West	1.41	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.41 Middles West.pdf
+Horsleyhope Haugh	1.42	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.42 Horsleyhope Haugh.pdf
+"Barn Hill Heath, Stanley"	1.43	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.43 Barn Hill Heath.pdf
+"Delight Bank, Dipton"	1.44	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.44 Delight Bank.pdf
+"Grove Ponds, Consett"	1.45	Durham	"C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.45 Grove Ponds and Meadow, Consett.pdf"
+Harelaw Cemetary Heath	1.46	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.46 Harelaw Cemetery Heath.pdf
+Brooms Pond	1.47	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.47 Brooms Pond.pdf
+Greencroft	1.48	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.48 Greencroft.pdf
+Hurbuck Triangle	1.49	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.49 Hurbuck Triangle v2.pdf
+Hisehope Burn Wood	1.5	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.5 Hisehope Burn Wood.pdf
+Ousterley Wood	1.50	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.50 Ousterely Wood.pdf
+Burnhill Junction and Longburn Ford	1.51	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.51 Burnhill Junction and Longburn Ford.pdf
+Priestfield Wood	1.52	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.52 Priestfield Wood.pdf
+Muggleswick Common	1.6	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.6 Muggleswick Common.pdf
+Horsleyhope Mill Meadow	1.7	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.7 Horsleyhope Mill Meadow.pdf
+Nanny Mayers Railway	1.8	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.8 Nanny Mayer's Railway.pdf
+Whitehall Moss	1.9	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Derwentside - 1\Derwentside LWS PDFs\1.9 Whitehall Moss.pdf
+"Walters Wood, Ouston"	2.1	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Chester-le-Street - 2\Chester-Le-Street LWS PDFs\Walter's Wood Ouston_lws_2_1.pdf
+Brough's Gill Wood	2.10	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Chester-le-Street - 2\Chester-Le-Street LWS PDFs\Brough's Gill Wood_lws_ 2_10 .pdf
+Twizell Wood	2.11	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Chester-le-Street - 2\Chester-Le-Street LWS PDFs\Twizell Wood_lws_2_11.pdf
+River Team Woodlands	2.12	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Chester-le-Street - 2\Chester-Le-Street LWS PDFs\River Team Woodlands_lws_2_12.pdf
+Walridge Pit Heap Pond	2.13	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Chester-le-Street - 2\Chester-Le-Street LWS PDFs\Waldridge Pit Heap Pond_lws_2_13 complete.pdf
+Pockerley Hill Wood	2.14	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Chester-le-Street - 2\Chester-Le-Street LWS PDFs\Pockerley Hill Wood_lws_2.14.pdf
+Morton Wood	2.15	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Chester-le-Street - 2\Chester-Le-Street LWS PDFs\Morton Wood_lws_2_15 .pdf
+Howlmire Gill	2.16	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Chester-le-Street - 2\Chester-Le-Street LWS PDFs\Howlmire Gill_lws_2_16.pdf
+Hermitage Woods	2.17	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Chester-le-Street - 2\Chester-Le-Street LWS PDFs\Hermitage Woods_lws_2_17.pdf
+Whitehill Hall woods	2.2	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Chester-le-Street - 2\Chester-Le-Street LWS PDFs\Whitehill Hall Wood lws_2_2 complete.pdf
+Cong Burn Wood	2.3	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Chester-le-Street - 2\Chester-Le-Street LWS PDFs\Cong Burn Wood_lws_2_3 .pdf
+East Farm Pond	2.4	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Chester-le-Street - 2\Chester-Le-Street LWS PDFs\East Farm Pond_lws_2_4.pdf
+Sacriston Wood	2.5	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Chester-le-Street - 2\Chester-Le-Street LWS PDFs\Sacriston Wood_lws_2_5 complete.pdf
+Lumley Woods	2.6	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Chester-le-Street - 2\Chester-Le-Street LWS PDFs\Lumley Woods_lws_2_6.pdf
+Forgebank Wood	2.7	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Chester-le-Street - 2\Chester-Le-Street LWS PDFs\Forgebank Woods_lws_2_7.pdf
+Pelaw Hill Railway	2.8	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Chester-le-Street - 2\Chester-Le-Street LWS PDFs\Pelaw Hill_lws_2_8.pdf
+Chester Dene	2.9	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Chester-le-Street - 2\Chester-Le-Street LWS PDFs\Chester Dene_lws_2_9.pdf
+Garden House Plantation	3.0.1	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.0.1 Garden House Plantation.pdf
+Blackdene Mine Railway	3.0.2	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.0.2 Blackdene Mine Railway.pdf
+Bridge End Railway	3.0.3	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.0.3 Bridge End Railway.pdf
+"Meadow, West Green Head"	3.0.4	Durham	"C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.0.4 Meadow, West Green Head.pdf"
+Sunderland Cleugh	3.0.5	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.0.5 Sunderland Cleugh.pdf
+Listera Moorland	3.0.7	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.0.7 Listera Moorland.pdf
+Sedling Plain Meadow	3.1	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.1 Sedling Plain Meadow.pdf
+Wolsingham River Gravels	3.10	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.10 Wolsingham River Gravels.pdf
+Willow Green Gill Wood	3.11	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.11 Willow Green Gill Wood.pdf
+Ireshopeburn	3.12	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.12 Ireshopeburn.pdf
+Houselop Beck Wood	3.13	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.13 Houselop Beck Wood.pdf
+Thornhope Beck Wood	3.14	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.14 Thornhope Beck Wood.pdf
+Swinhope Moor	3.15	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.15 Swinhope Moor.pdf
+Fendrith Hill	3.16	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.16 Fendrith Hill.pdf
+Ambling Gate Bank	3.17	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.17 Ambling Gate Bank.pdf
+Tunstall Reservoir	3.18	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.18 Tunstall Reservoir.pdf
+Baal Hill Wood	3.19	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.19 Baal Hill Wood.pdf
+Pedam's Oak	3.2	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.2 Pedam's Oak.pdf
+Stanhope Dene	3.20	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.20 Stanhope Dene.pdf
+River Wear Harperley	3.21	Durham	"C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.21 River Wear, Harperley.pdf"
+Horsley Burn Wood	3.22	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.22 Horsley Burn Wood.pdf
+Shittlehope Burn Wood	3.23	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.23 Shittlehope Burn Wood.pdf
+Page Bank Pond	3.25	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.25 Page Bank Pond.pdf
+"'Fylands', River Gaunless"	3.27	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.27 Flylands River Gaunless.pdf
+Harehope Burn Wood	3.28	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.28 Harehope Burn Wood.pdf
+Beldon Burn	3.29	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.29 Beldon Burn.pdf
+Derwent Reservoir	3.3	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.3 Derwent Reservoir.pdf
+Mcneil Bottoms	3.30	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.30 McNeil Bottoms.pdf
+Parson Byers Quarries	3.31	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.31 Parson Byers Quarry.pdf
+Witton Bottoms Woodland	3.32	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.32 Witton Bottoms Woodland.pdf
+Witton Park Wetland	3.33	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.33 Witton Park Wetland.pdf
+Cobey's Carr	3.34	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.34 Cobeys Carr.pdf
+Puddingthorne Quarries	3.35	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.35 Puddingthorn quarries.pdf
+Stanley Beck Meadows	3.36	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.36 Stanley Beck Meadows.pdf
+Escomb Pastures	3.37	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.37 Escomb Pastures.pdf
+Bellburn Wood	3.38	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.38 Bellburn Wood.pdf
+Burnhope Burn juniper site	3.39	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.39 Burnhope Burn Juniper Site.pdf
+Nookton Wood	3.4	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.4 Nookton Wood.pdf
+Coal Road	3.40	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.40 Coal Road.pdf
+Rushy Lea	3.41	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.41 Rushy Lea.pdf
+Bellburn Swamp	3.42	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.42 Bellburn Swamp.pdf
+Lands Farm Wall	3.43	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.43 Lands Farm Wall.pdf
+Pow Hil Meadow	3.44	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.44 Pow Hill Meadow.pdf
+Ruffside Pasture	3.45	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.45 Ruffside Pasture.pdf
+Willington North Dene	3.46	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.46 Willington North Dene.pdf
+Brack's Wood	3.47	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.47 Brack's wood.pdf
+"Bolt's Burn, Ramshaw"	3.48	Durham	"C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.48 Bolt's Burn, Ramshaw.pdf"
+Scutter Hill Quarry	3.49	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.49 Scutter Hill Quarry.pdf
+Harehope Quarry	3.5	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.5 Harehope Quarry.pdf
+Willington South Dene	3.50	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.50 Willington South Dene.pdf
+Escomb Lake	3.51	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.51 Escomb lake.pdf
+Escomb Wood	3.53	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.53 Escomb Wood.pdf
+Greenfoot Quarry	3.54	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.54 Greenfoot Quarry.pdf
+Wolsingham North Moor	3.55	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.55 Wolsingham North Moor.pdf
+Newhouse to Middlehope Road Verge	3.56	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.56 Newhouse to Middlehope Road Verge.pdf
+Killhope Wheel	3.6	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.6 Killhope Wheel.pdf
+Stanley Moss	3.7	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.7 Stanley Moss.pdf
+Wiserley Hall	3.8	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Wear Valley - 3\PDF's For Data Search\3.8 Wiserley Hall.pdf
+Red Burn Tributaries	4.1	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Red Burn Tributaries - 4.1.pdf
+Pelaw Wood	4.10	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Pelaw Wood -4.10.pdf
+Hoppers Wood	4.11	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Hoppers Wood -4.11.pdf
+Langley Fur Farm Pond	4.12	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Langley Fur Farm Pond -4.12.pdf
+Saltwell Gill Wood	4.13	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Saltwell Gill Wood -4.13.pdf
+Pittington Hill	4.14	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Pittington Hill -4.14.pdf
+Coalford Beck Marsh	4.15	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Coalford Beck Marsh -4.15.pdf
+Sherburn Hill (1)	4.16	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Sherburn Hill -4.16.pdf
+Sherburn Hill (2)	4.16	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Sherburn Hill -4.16.pdf
+Elemore Woods (1)	4.17	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Elemore Woods -4.17.pdf
+Elemore Woods (2)	4.17	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Elemore Woods -4.17.pdf
+Silent Bank (Road Verge)	4.18	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Silent Bank - Road verge -4.18.pdf
+Shadforth Dene	4.19	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Shadforth Dene -4.19.pdf
+Bearpark Bog	4.2	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Bearpark Bog -4.2.pdf
+Quarrington Hill and Coxhoe Bank Plantation	4.20	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Quarrington Hill and Coxhoe Bank -4.20.pdf
+Kelloe Plantation	4.21	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Kelloe Plantation -4.21.pdf
+Newton Hall Junction	4.22	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Newton Hall Junction -4.22.pdf
+"Houghall, Maiden Castle and Little High  Woods (2)"	4.23	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Houghall-Maiden Castle-Little High Woods -4.23.pdf
+"Houghall, Maiden Castle and Little High Woods (1)"	4.23	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Houghall-Maiden Castle-Little High Woods -4.23.pdf
+Frankland Pond	4.24	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Frankland Pond -4.24.pdf
+North Wood	4.25	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\North Wood -4.25.pdf
+Framwellgate Moor Carrs	4.26	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Framwellgate Moor Carrs -4.26.pdf
+Baxter Wood	4.27	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Baxter Wood -4.27.pdf
+Deerness Valley (1)	4.28	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Deerness Valley -4.28.pdf
+Deerness valley (2)	4.28	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Deerness Valley -4.28.pdf
+Flass Vale	4.29	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Flass Vale -4.29.pdf
+The Scroggs	4.3	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\The Scroggs -4.3.pdf
+Sherburn Hospital	4.30	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Sherburn Hospital -4.30.pdf
+Oxclose	4.31	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Oxclose -4.31.pdf
+Raisby Pond	4.33	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Raisby Pond -4.33.pdf
+Stockley Beck Meadow	4.34	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Stockley Beck Meadow -4.34.pdf
+Lowe's Barn	4.35	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Lowe's Barn -4.35.pdf
+Coxhoe Ponds	4.37	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Coxhoe Ponds -4.37.pdf
+Shincliffe Pit Heap	4.38	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Shincliffe Pit Heap -4.38.pdf
+Blaids Wood	4.39	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Blaids Wood -4.39.pdf
+Redhouse Wood and Former Munition Store	4.4	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Redhouse Wood and former Munitions Store -4.4.pdf
+Ludworth Pit Heap	4.40	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Ludworth Pit Heap -4.40.pdf
+Shincliffe Wood	4.41	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Shincliffe Wood -4.41.pdf
+Broomside Scrambles	4.42	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Broomside Scrambles -4.42.pdf
+Lower Browney Valley	4.43	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Lower Browney Valley -4.43.pdf
+Raisby Way	4.44	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Raisby Way 4.44.pdf
+Tursdale West Ponds	4.45	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Tursdale West Ponds -4.45.pdf
+Running Waters Quarry	4.46	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Running Waters Quarry -4.46.pdf
+Langley Park Heath	4.47	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Langley Park Heath -4.47.pdf
+Finchale Priory Woods	4.5	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Finchale Priory Woods -4.5.pdf
+North Brasside Claypit	4.6	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\North Brasside Claypit -4.6.pdf
+Rainton Park Wood	4.7	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Rainton Park Wood -4.7.pdf
+Moorhouse Wood	4.8	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Moorhouse Wood -4.8.pdf
+Frankland and Kepier Woods	4.9	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Durham - 4\PDF\Frankland and Kepier Woods -4_9.pdf
+Hesledon Moor East	5.1	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Hesledon Moor East 5_1.pdf
+Thornley Dene	5.10	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Thornley Dene 5_10.pdf
+Heads Hope Dene	5.11	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Heads Hope Dene 5_11.pdf
+Hazel Dene	5.12	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Hazel Dene 5_12.pdf
+Hurworth Burn Reservoir	5.13	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Hurworth Burn Reservoir 5.13.pdf
+Cold Hesledon Pond and Walkway	5.14	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Cold Hesledon Pond & Walkway 5_14.pdf
+Hawthorn Bridge Pumping Station	5.15	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Hawthorn Bridge Pumping  Station 5_15.pdf
+Hesledon Crimdon Dene Complex	5.16	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Hesledon-Crimdon  Dene 5_16.pdf
+Seaham Dene	5.17	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Seaham Dene 5_17.pdf
+Cowtons Pond	5.18	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Cowtons pond 5_18.pdf
+Hart to Haswell Railway	5.19	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Hart to Haswell Railway 5_19.pdf
+Dalton Dene	5.2	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Dalton Dene 5_2.pdf
+Loch Kenny Pond	5.20	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Loch Kenny Pond 5_20.pdf
+Edderacres	5.21	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Edderacres 5_21.pdf
+Ryhope Dene	5.22	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Ryhope dene 5_22.pdf
+Byron's (Little Seaham) Dene	5.23	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Byrons dene 5_23.pdf
+Pesspool Wood	5.24	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Pesspool Wood 5_24.pdf
+Warren House Gill Grassland	5.25	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Warren House Gill 5_25.pdf
+South Murton Marsh	5.27	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\South Murton Marsh 5_27.pdf
+Cold Hesledon Meadow	5.28	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Cold Hesledon Meadow 5_28.pdf
+Slingley Pond	5.29	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Slingley Pond 5_29.pdf
+Duncombe Moor	5.3	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Duncombe Moor 5_3.pdf
+Murton Bridge Carr	5.30	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Murton Bridge Carr 5_30.pdf
+Coop House Wood	5.31	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Coop House Wood 5_31 plus FEN.pdf
+Coop House Wood (1)	5.31	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Coop House Wood 5_31 plus FEN.pdf
+Elemore Horseshoe Pond	5.32	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Elemore Horseshoe Pond 5_32.pdf
+Haswell Wood Shotton	5.33	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Haswell Wood Shotton 5_33.pdf
+Deaf Hill Marsh	5.34	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Deaf Hill Marsh 5_34.pdf
+Castle Eden Pond	5.35	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Castle Eden Pond 5_35.pdf
+Hulam Reed Swamp	5.36	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Hulam Reed Swamp 5_36.pdf
+Carstead Wood West	5.37	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Carstead Wood West 5_37.pdf
+Hawthorn Quarry	5.38	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Hawthorn Quarry 5_38.pdf
+Horden Dene	5.39	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Horden dene 5_39.pdf
+Hesledon Moor West	5.40	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Hesledon Moor West 5_40.pdf
+Murton Grassland	5.41	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Murton Grassland 5_41.pdf
+Deaf Hill Pond	5.43	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Deaf Hill Pond 5_43.pdf
+Pesspool Lane Ponds	5.44	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Pesspoll Lane Ponds 5_44 plusBAP.pdf
+Murton Meadows	5.45	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Murton Meadows 5_45.pdf
+Dawdon Dene	5.5	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Dawdon Dene 5_5.pdf
+Tuthill Quarry	5.7	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Tuthill Quarry 5_7.pdf
+New Winning Pumping Station Pond	5.8	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\New Winning Pumping Station Pond 5_8.pdf
+Wellfield Brick Ponds (1)	5.9	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Wellfield Brick Ponds 5_9.pdf
+Wellfield Brick Ponds (2)	5.9	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Wellfield Brick Ponds 5_9.pdf
+Wellfield Brick Ponds (3)	5.9	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Wellfield Brick Ponds 5_9.pdf
+Wellfield Brick Ponds (4)	5.9	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Wellfield Brick Ponds 5_9.pdf
+Wellfield Brick Ponds (5)	5.9	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Easington - 5\PDF\Wellfield Brick Ponds 5_9.pdf
+South Hetton Pond	6.0	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\South Hetton Pond 6_0.pdf
+Lead Spoil	6.0.1	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Lead Spoil_LWS_6_0_1.pdf
+Low Houses Tees Bank	6.0.2	Durham	"C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Low Houses, Tees Bank_LWS_6_0_2.pdf"
+Crook Pool Tees Bank	6.0.3	Durham	"C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Crook Pool, Tees Bank_LWS_6_0_3.pdf"
+South Bank of Tees	6.0.4	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\South Bank of Tees_LWS_6_0_4.pdf
+Bowlees Pasture	6.1.1	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Bowlees Pasture_LWS_6_1_1.pdf
+Brockers Gill Meadows	6.1.2	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Brockers Gill Meadows_LWS_6_1_2.pdf
+West Brockers Gill Meadow	6.1.3	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\West Brockers Gill Meadow_LWS_6_1_3.pdf
+Stoneygill Meadow	6.1.4	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Stoneygill Meadow_LWS_6_1_4.pdf
+Gordon House Meadow Pasture	6.1.5	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Gordon House Meadow_LWS_6_1_5.pdf
+Bowser's Island	6.10	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Bowser's Island_LWS_6_10.pdf
+Bluestone Grange Railway	6.11	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Bluestone Grange Railway_LWS_6_11.pdf
+Whorlton Banks	6.12	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Whorlton Banks_LWS_6.12.pdf
+High Plantation	6.13	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\High Plantation_LWS_6_13.pdf
+Grassholme Reservoir	6.14	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Grassholme Reservoir_LWS_6_14.pdf
+Blackton Reservoir	6.15	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Blackton Reservoir_LWS_6_15.pdf
+How Gill	6.16	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\How Gill_LWS_6_16.pdf
+Cote House Wood and Marsh	6.17	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Cote House Wood & Marsh_LWS_6_17.pdf
+Red Carr Bank	6.18	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Red Carr Bank_LWS_6_18.pdf
+Egglesburn Shingle Bank	6.19	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Egglesburn Shingle Bank_LWS_6_19.pdf
+Brockers Gill Wood	6.2	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Brockers Gill Wood (Revelin Gill)_LWS_6.2.pdf
+Croft Yoke Scar Wood	6.20	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Croft Yoke Scar Wood_LWS_6_20.pdf
+Hole  Beck  Quarry	6.21	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Hole Beck Quarry_LWS_6_21.pdf
+Gainford Spa Wood	6.22	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Gainford Spa Wood_LWS_6_22.pdf
+Pallet Crag	6.23	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Pallet Crag_LWS_6_23.pdf
+Hindon Beck	6.24	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Hindon Beck & Cowclose Wood_LWS_6_24.pdf
+Hamsterley Forest	6.25	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Hamsterley Forest_LWS_6_25.pdf
+North Carr Wood	6.26	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\North Carr Wood_LWS_6_26.pdf
+Bedburn Beck and Adder Wood	6.27	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Bedburn Beck and Adder Wood_LWS_6_27.pdf
+Crakehill Bank	6.28	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Crakehill Bank_LWS_6_28.pdf
+Lower Linburn Valley	6.29	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Lower Linburn Valley_LWS_6_29.pdf
+Pecknell Wood	6.3	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Pecknell Wood_LWS_6_3.pdf
+Knitsley Fell and Quarry Pond	6.30	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Knitsley Fell & Quarry Pond_LWS_6_30.pdf
+Cotherstone Railway	6.31	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Cotherstone Railway_LWS_6_31.pdf
+Waskey Wood	6.32	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Waskey Wood_LWS_6_32.pdf
+Lartington High Pond	6.33	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Lartington High Pond_LWS_6_33.pdf
+Deepdale Wood	6.34	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Deepdale Wood_LWS_6_34.pdf
+Waterman's Island	6.35	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Waterman's Island_LWS_6_35.pdf
+Flatts Wood	6.36	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Flatts Wood_LWS_6_36.pdf
+Thorsgill Wood	6.37	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Thorsgill Wood_LWS_6_37.pdf
+"Teesbank Woods, Rokeby"	6.38	Durham	"C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Teesbank Woods, Rokeby_LWS_6_38.pdf"
+Rokeby Park and Mortham Wood	6.39	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Rokeby Park & Mortham Wood_LWS_6_39.pdf
+Great Eggleshope Beck	6.4	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Great Eggleshope Beck_LWS_6_4.pdf
+Mickleton Pond	6.40	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Mickleton Pond_LWS_6_40.pdf
+Redford Meadows	6.41	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Redford Meadows_LWS_6_41.pdf
+"Cragg Wood, Evenwood"	6.43	Durham	"C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Cragg Wood, Evenwood_LWS_6_43.pdf"
+Low Wood House Marsh	6.44	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Low Wood House Marsh_LWS_6_44.pdf
+Gordon Beck	6.45	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Gordon Beck_LWS_6_45.pdf
+Brusselton Wood	6.5	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Brusselton Wood_LWS_6_5.pdf
+Hud Scar/Hope Scar	6.6	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Hud Scar_Hope Scar_LWS_6_6.pdf
+Wycliffe Wood	6.7	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Wycliffe Wood_LWS_6_7.pdf
+Bell Edge Wood	6.8	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Bell Edge Wood_LWS_6_8.pdf
+"Teesbank Woods, Winston"	6.9	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Teesdale - 6\PDFs\Teesbank Woods_Winston_LWS_6_9.pdf
+Rosa Shafto Woodland	7.1	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\Rosa Shafto Woodland 7_1.pdf
+Eldon Grassland	7.10	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\Eldon Grassland 7_10.pdf
+Cumby Pond	7.11	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\Cumby Pond & plantation 7_11.pdf
+Aycliffe Quarry	7.12	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\Aycliffe Quarry 7_12.pdf
+Garmondsway Moor Quarry	7.13	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\Garmondsway Moor Quarry 7_13.pdf
+Mill House Pond	7.14	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\Mill House Pond 7_14.pdf
+Middlestone Fen	7.15	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\Middlestone Fen 7_15.pdf
+Trimdon Grange and Railway	7.17	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\Trimdon Grange and Railway7_17.pdf
+New Homer Carr Plantation	7.18	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\New Homer Carr Plantation 7_18.pdf
+Crookfoot Reservior	7.19	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\Crookfoot Reservoir 7_19.pdf
+Paddock Plantation Pond	7.2	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\Paddock Plantation Pond  7_2.pdf
+Island Farm	7.20	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\Island Farm 7_20.pdf
+Carr Wood New Lake and Tank Stell	7.21	Durham	"C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\Carr Wood, New Lake and Tank Stell 7_21 Plus Fen.pdf"
+Island Farm Railway	7.22	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\Island Farm Railway 7_22.pdf
+Ferryhill Stell and Grassland	7.23	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\Ferryhill Stell and Grassland 7_23.pdf
+Mill Wood	7.24	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\Mill Wood 7_24.pdf
+Eldon Lane Heath	7.25	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\Eldon Lane Heath 7_25.pdf
+North Close Marsh	7.26	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\North Close Marsh 7_26.pdf
+Rough Furze Quarry	7.27	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\Rough Furze Quarry 7.27.pdf
+Mainsforth Pond East	7.28	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\Mainsforth Pond 7_28 plus Fen.pdf
+Cow Plantation	7.29	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\Cow Plantation 7_29.pdf
+Ferryhill Cut	7.3	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\Ferryhill Cut 7_3.pdf
+Garmondsway Triangle	7.30	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\Garmondsway Triangle 7_30.pdf
+Eden Grange Pond	7.31	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\Eden Grange Pond 7_31.pdf
+Mainsforth Recreation Complex Pond	7.32	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\Mainsforth recreation complex pond 7_32 Plus Fen.pdf
+Brusselton Reservoir Pond	7.33	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\Brusselton reservoir pond 7_33.pdf
+Shildon Sidings	7.34	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\Shildon sidings 7_34.pdf
+The Snipe	7.35	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\The Snipe 7_35.pdf
+Trimdon Grange Pit Heap	7.36	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\Trimdon Grange pit heaps 7_36.pdf
+Bishop Middleham Deer Park Lake	7.38	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\Bishop middleham deer park lake 7_38.pdf
+Whin Houses Heath	7.39	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\Whin houses heath 7_39.pdf
+Bishop Middleham Pond	7.4	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\Bishop Middleham Pond 7_4.pdf
+Aycliffe Nature Park	7.40	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\Aycliffe nature park 7_40.pdf
+Bishop Middleham Roadside Lake	7.41	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\Bishop middleham roadside lake 7_41.pdf
+A1 Flashes	7.42	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\A1 Flashes 7_42.pdf
+School Aycliffe Wetland	7.43	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\School Aycliffe Wetland 7_43.pdf
+Whitworth Park Grassland	7.44	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\Whitworth Park Grassland 7_44.pdf
+Merry Knowle Quarry	7.5	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\Merry Knowle Quarry 7_5.pdf
+Cleveland Gorse	7.6	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\Cleveland Gorse 7_6.pdf
+Tursdale Ponds	7.7	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\Tursdale Ponds 7_7.pdf
+Hardwick Hall	7.8	Durham	C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\Hardwick Hall 7_8 Plus FEN.pdf
+Tilery Ponds Bradbury	7.9	Durham	"C:\ERIC\LWS Citations\Durham\LWS Citations\Sedgefield - 7\pdf\Tilery Ponds, Bradbury 7_9 checked.pdf"
+Bucks Hill Plantation	GAT 1	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT01 Bucks Hill Plantation.pdf
+Hagg Hill Pasture	GAT 10	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT10 Hagg Hill Pasture.pdf
+Stella Wood and Pathhead Woods	GAT 102	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT102 Stella and Path Head Woods.pdf
+Dunkirk Pond (Fox's Pond)	GAT 116	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT116 Dunkirk Pond _Foxs pond_.pdf
+Axwell Park and Lake	GAT 14	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT14 Axwell Park and Lake.pdf
+Guards Farm Meadows	GAT 143	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT 143 Guards Farm Meadows.pdf
+Long Acre Dene	GAT 144	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT 144 Long Acre Dene.pdf
+Lamesley Reedbeds	GAT 145	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT 145 Lamesley Reedbeds.pdf
+Millers Wood	GAT 146	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT 146 Millers Wood.pdf
+Coal Burn	GAT 147	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT 147 Coal Burn.pdf
+Snipes Dene Head	GAT 148	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT 148 Snipes Dene Head.pdf
+Bowes Valley Nature Reserve	GAT 149	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT 149 Bowes Valley Nature Reserve.pdf
+Saltwell Park Lake	GAT 152	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT 152 SALTWELL PARK LAKE.pdf
+Barlow Burn East	GAT 16	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT16 Barlow Burn East.pdf
+Barlow Burn West	GAT 17	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT17 Barlow Burn West.pdf
+Derwent Walk Country Park	GAT 2	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT02 Derwent Walk Country Park.pdf
+Bill Quay	GAT 22	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT22 Bill Quay.pdf
+Bowes Railway	GAT 24	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT24 Bowes Railway.pdf
+Birtley Union Brickworks	GAT 25	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT25 Birtley Union Brickworks.pdf
+Birtley Northside	GAT 26	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT26 Birtley Northside.pdf
+Black Burn Meadow	GAT 27	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT27 Black Burn Meadow.pdf
+Blaydon Burn	GAT 28	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT28 Blaydon Burn.pdf
+Bradley Dene	GAT 29	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT29 Bradley Dene.pdf
+Ryton Willows	GAT 3	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT03 Ryton Willows.pdf
+Burdon Dene	GAT 30	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT30 Burdon Dene.pdf
+Burdon Moor	GAT 31	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT31 Burdon Moor.pdf
+Chopwell Wood	GAT 34	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT34 Chopwell Wood.pdf
+Chopwell Wood Riverside	GAT 35	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT35 Chopwell Wood Riverside.pdf
+Clara Vale Pond	GAT 36	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT36 Clara Vale Pond.pdf
+Clara Vale Pit Yard	GAT 37	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT37 Clara Vale Pit Yard.pdf
+Clockburn Dene Wood	GAT 38	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT38 Clockburn Dene Wood.pdf
+Clover Hill	GAT 39	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT39 Clover Hill.pdf
+Coalburns Waggonway	GAT 40	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT40 Coalburn Wagonway.pdf
+Crawcrook Quarry	GAT 41	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT41 Crawcrook Quarry.pdf
+Crookhill Pasture	GAT 42	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT42 Crookhill Pasture.pdf
+Damhead Wood	GAT 43	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT43 Damhead Wood.pdf
+Derwent Bridge Wood	GAT 44	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT44 Derwent Bridge Wood.pdf
+Lockhaugh Sewage Works	GAT 45	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT45 Lockhaugh Sewage Works.pdf
+Dunkirk Farm West	GAT 47	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT47 Dunkirk Farm West.pdf
+Dunston Hill Pond	GAT 48	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT48 Dunston Hill Pond.pdf
+Dunston Pond (Acer Pond)	GAT 49	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT49 Dunston Pond _Acer Pond_.pdf
+Fell Farm	GAT 50	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT50 Fell Farm.pdf
+Felling Shore	GAT 51	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT51 Felling Shore.pdf
+Fellside Pond West	GAT 52	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT52 Fellside Pond West.pdf
+Fortune Hill	GAT 53	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT53 Fortune Hill.pdf
+Guards Wood	GAT 55	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT55 Guards Wood.pdf
+Hagg Hill Wood	GAT 56	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT56 Hagg Hill Wood.pdf
+Hagg Wood/Gill and Mitcheson's Gill	GAT 57	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT57 Hagg Wood Gill & Mitcheson's Gill.pdf
+Halliwell Dene	GAT 58	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT58 Halliwell Dene.pdf
+Hedgefield Quarry	GAT 59	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT59 Hedgefield Quarry.pdf
+Sunniside Park	GAT 6	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT06 Sunniside Park.pdf
+Hollinhill Wood	GAT 60	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT60 Hollinhill Wood.pdf
+Huntley Gill	GAT 61	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT61 Huntley Gill.pdf
+Image Hill	GAT 63	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT63 Image Hill.pdf
+Lands Wood	GAT 65	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT65 Lands Wood.pdf
+Lintzford Wood	GAT 67	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT67 Lintzford Wood.pdf
+Long Acre Wood	GAT 69	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT69 Long Acre Wood.pdf
+Victoria Garesfield	GAT 7	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT07 Victoria Garesfield.pdf
+Low Thornley Dene	GAT 70	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT70 Low Thornley Dene.pdf
+Mill Bank Wood	GAT 71	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT71 Mill Bank Wood.pdf
+Mill Wood	GAT 72	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT72 Mill Wood.pdf
+Milkwellburn Wood (Streamside)	GAT 73	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT73 Milkwellburn Wood _Streamside_.pdf
+Milkwellburn Wood	GAT 74	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT74 Milkwellburn Wood.pdf
+Lamesley Meadows	GAT 75	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT75 Lamesley Meadows.pdf
+Mount Escob	GAT 76	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT76 Mount Escob.pdf
+Washingwell Wood	GAT 8	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT08 Washingwell Wood.pdf
+Tidal River Derwent	GAT 84	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT84 Tidal River Derwent.pdf
+Stanley Burn Wood South	GAT 100	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT100 Stanleyburn Wood South.pdf
+Stargate Ponds/ Bewes Hills	GAT 101	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT101 Stargate Pond_Bewes Hill.pdf
+Strothers Riverside	GAT 103	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT103 Strothers Riverside.pdf
+Sunniside Wood	GAT 104	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT104 Sunniside Wood.pdf
+Swalwell Meadow	GAT 105	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT105 Swalwell Meadow.pdf
+Tongue Burn Wood	GAT 106	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT106 Tongue Burn Wood.pdf
+Urpeth Bottoms	GAT 107	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT107 Urpeth Bottoms.pdf
+West Wood and Gibside Chapel	GAT 109	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT109 West Wood and Gibside Chapel.pdf
+Windy Nook Nature Park	GAT 110	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT110 Windy Nook Nature Park.pdf
+Wylam Riverside	GAT 111	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT111 Wylam Riverside.pdf
+Blaydon Quarry	GAT 112	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT112 Blaydon Quarry.pdf
+Cappy Scar	GAT 113	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT113 Cappy Scar.pdf
+Clinty Wood	GAT 114	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT114 Clinty Wood.pdf
+Cooper's Wood	GAT 115	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT115 Coopers Wood.pdf
+Eels Wood	GAT 117	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT117 Eels Wood.pdf
+Fellside Pond East	GAT 118	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT118 Fellside Pond East.pdf
+Shibdon Pond West	GAT 120	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT120 Shibdon Pond West.pdf
+Westfield Pasture	GAT 121	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT121 Westfield Pasture.pdf
+Barlow Gill Wood	GAT 122	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT122 Barlow Gill Wood.pdf
+Whitehills	GAT 123	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT123 Whitehills.pdf
+Bog Wood (Clara Vale)	GAT 124	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT124 Bog Wood _Clara Vale_.pdf
+Bradley Park	GAT 125	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT125 Bradley Park.pdf
+Broomfield Meadow	GAT 126	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT126 Broomfield Meadow.pdf
+Burdon Moor (Blackburn Fell)	GAT 127	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT127 Burdon Moor _Blackburn Fell_.pdf
+Clinty Wood East	GAT 128	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT128 Clinty Wood East.pdf
+Coalburn Plantation	GAT 129	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT129 Coalburn Plantation.pdf
+Cross Lane Meadows	GAT 130	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT130 Cross Lane Meadows.pdf
+Hedley Hall Wood	GAT 131	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT131 Hedley Hall Wood.pdf
+Horsegate Paddock	GAT 132	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT132 Horsegate Paddock.pdf
+Jacky's Plantation	GAT 133	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT133 Jackys Plantation.pdf
+Kittiwake Tower	GAT 134	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT134 The Kittiwake Tower.pdf
+Lillycrook Hill	GAT 135	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT135 Lillycrook Hill.pdf
+Manor Gardens	GAT 136	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT136 Manor Gardens.pdf
+Norwood Nature Park	GAT 137	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT137 Norwood Nature Park.pdf
+Path Head Quarry	GAT 138	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT138 Path Head Quarry.pdf
+Stella Lane Pasture	GAT 139	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT139 Stella Lane Pasture.pdf
+Tanfield Railway Sidings	GAT 140	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT140 Tanfield Railway Sidings.pdf
+Watergate Forest Park Lake	GAT 141	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT141 Watergate Forest Park Lake.pdf
+Whickham Thorns	GAT 142	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT142 Whickham Thorns.pdf
+Beda Hills	GAT 18	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT18 Beda Hills.pdf
+Chopwell Bomb Ponds	GAT 33	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT33 Chopwell Bomb Ponds.pdf
+Strother Hills	GAT 5	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT05 Strother Hills.pdf
+Ousbrough Wood	GAT 77	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT77 Ousbrough Wood.pdf
+Path Head Meadow	GAT 78	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT78 Path Head Meadow.pdf
+Pelaw Quarry	GAT 79	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT79 Pelaw Quarry.pdf
+Ravensworth Ponds and Wood	GAT 82	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT82 Ravensworth Ponds and Wood.pdf
+Reeley Mires West Wood	GAT 83	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT83 Reeley Mires West Wood.pdf
+River Team saltmarsh	GAT 85	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT85 River Team Saltmarsh.pdf
+"River Tyne, Tidal Mud"	GAT 86	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT86&87 River Tyne Tidal Mud.pdf
+"River Tyne, Tidal Mud"	GAT 87	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT86&87 River Tyne Tidal Mud.pdf
+"Holburn Dene, Ryton"	GAT 91	Gateshead	"C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT91 Holburn Dene, Ryton.pdf"
+Ryton Runhead	GAT 92	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT92 Ryton Runhead.pdf
+Ryton Woodside	GAT 93	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT93 Ryton Woodside.pdf
+Sheddon's Hill	GAT 94	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT94 Sheddon's Hill.pdf
+Shibdon Meadow	GAT 95	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT95 Shibdon Meadow.pdf
+Sled Lane Pond/Crookoe Wood	GAT 96	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT96 Sled Lane Pond - Crookoe Wood.pdf
+Spen Banks	GAT 97	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT97 Spen Banks.pdf
+Spen Denes	GAT 98	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT98 Spen Denes.pdf
+Stanleyburn Wood North	GAT 99	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT99 Stanleyburn Wood North.pdf
+North Burn Marsh	HP01	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 1 North Burn Marsh LWS.pdf
+Crookfoot Reservoir	HP10	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 10 Crookfoot Reservoir.pdf
+Amerston Gill Woodland	HP11	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 11 Amerston Gill LWS.pdf
+Power Station Grassland and Wetland	HP12	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 12 Hartlepool Power Station LWS.pdf
+Thorpe Bulmer and West Crimdon Denes	HP13	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 13 Thorpe Bulmer Dene LWS.pdf
+Greenabella Marsh	HP14	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 14 Greenabella Marsh LWS.pdf
+Close Woods Complex	HP15	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 15 Close Wood complex LWS.pdf
+Bellows Burn Marsh	HP16	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 16 Bellows Burn Fen LWS.pdf
+Whelly Hill Quarry Grassland	HP17	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 17 Whelly Hill Quarry LWS.pdf
+Whelly Hill Quarry Grassland  LGS	HP17	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 17 Whelly Hill Quarry LWS.pdf
+Greatham Beck	HP18	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 18 Greatham Beck LWS.pdf
+Hart Quarry	HP19	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 19 Hart Quarry LWS.pdf
+The Howls Woodland	HP02	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 2 The Howls LWS.pdf
+Gunnersvale Marsh	HP20	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 20 Gunnersvale Marsh LWS.pdf
+The Slake Saltmarsh	HP21	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 21 The Slake LWS.pdf
+Brierton Quarry Grassland	HP22	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 22 Brierton Quarry LWS.pdf
+Tilery Gill Grassland	HP23	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 23 Tilery Gill LWS.pdf
+Elwick Hall Grassland	HP24	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 24 Elwick Hall LWS.pdf
+Greatham Creek North Bank Saltmarsh	HP25	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 25 Greatham Creek North Bank LWS.pdf
+West Carr Plantation	HP26	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 26 West Carr Plantation LWS.pdf
+Saltern Saltmarsh	HP27	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 27 Greatham North LWS.pdf
+Phillips Tank Farm Grassland	HP28	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 28 Philips Tank Farm LWS.pdf
+Tot Fenny's Meadow	HP29	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 29  Tot Fenny's Field LWS.pdf
+Crimdon Road Verge	HP03	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 3 Hart to Haswell Walkway LWS.pdf
+Hart-Haswell Walkway	HP03	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 3 Hart to Haswell Walkway LWS.pdf
+Spion Kop Cemetery Grassland	HP30	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 30 Spion Kop LWS.pdf
+North Hartlepool Dunes	HP31	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 31  North Hartlepool Dunes LWS.pdf
+Brenda Road Brownfield	HP32	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 32 Brenda Road Brownfield LWS.pdf
+Craddon Bank Grassland	HP33	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 33 Craddon Bank LWS.pdf
+Hart Cutting Grassland	HP34	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 34 Hart Cutting LWS.pdf
+Rossmere Park Island Heronry	HP35	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 35  Rossmere Park LWS.pdf
+Hartville Meadow	HP36	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 36 Hartville Meadow LWS.pdf
+High Stotfold Gill Meadow	HP37	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 37 High Stotfold Gill LWS.pdf
+Queen's Meadow Wetland	HP38	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 38 Queens Meadow LWS.pdf
+High Newton Hanzard Verges	HP39	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 39 High Newton Hanzard Meadow LWS.pdf
+Hart Warren Railway Embankment Grassland	HP04	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 4 Hart Warren Railway embankment LWS.pdf
+Char Beck Grassland	HP40	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 40 Char Beck Grassland LWS.pdf
+Zinc Works Bird Field	HP41	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 41 Zinc Works Field LWS.pdf
+Butts Lane Field Margins	HP42	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 42  Butts Lane LWS.pdf
+Central Park Grassland	HP43	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 43 Central Park Embankment LWS.pdf
+Summerhill Country Park	HP44	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 44 Summerhill LWS.pdf
+Seaton Common	HP45	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 45 Seaton Common LWS.pdf
+Brenda Road Sewage Works Grassland	HP46	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 46 Brenda Road Sewage Works LWS.pdf
+Coronation Drive Orchid Embankment	HP47	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 47 Coronation Drive Orchid Embankment proposed LWS.pdf
+Naisberry Quarry Grassland	HP05	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 5 Naisberry Quarry LWS.pdf
+Naisberry Quarry LGS	HP05	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 5 Naisberry Quarry LWS.pdf
+Black Wood Marsh	HP06	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 6 Black Wood Marsh LWS.pdf
+Pawton Hill Grassland	HP07	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 7 Pawton Gill LWS.pdf
+Beacon Hill Flush	HP08	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 8 Beacon Hill Marsh LWS.pdf
+Carr House Sands and West Harbour	HP09	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 9 Carr House Sands and West Harbour LWS.pdf
+West Harbour	HP09	Hartlepool	C:\ERIC\LWS Citations\Tees Valley\Hartlepool\PDFs\HP 9 Carr House Sands and West Harbour LWS.pdf
+Beacon Hill Quarry	1	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Beacon Hill Quarry.pdf
+Cleadon Pumping Station	10	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Cleadon Pumping Station (ST8).pdf
+Cleadon Quarry	11	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Cleadon Quarry (ST9).pdf
+Cotman Gardens	12	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Cotman Gardens.pdf
+Downhill Old Quarry	13	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Downhill Old Quarry ST(22).pdf
+Elliscope Farm East/ Hylton Bridge	14	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Elliscope Farm East_Hylton Bridge (ST39  ST17).pdf
+Follingsby	15	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Follingsby (ST19).pdf
+Harton Downhill	16	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Harton Downhill (ST1).pdf
+Hebburn Riverside	17	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Hebburn Riverside (ST41).pdf
+Hedworth Dene	18	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Hedworth Dene (ST35).pdf
+Inverness Road	19	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Inverness Road Jarrow (ST36).pdf
+Black Plantation	2	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Black Plantation.pdf
+Jarrow Slake Mud Flats	20	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Jarrow Slake Mud Flats (ST32).pdf
+Kitchener Road	21	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Kitchener Road.pdf
+Lakeside Inn	22	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Lakeside Inn Felling (ST42).pdf
+Lizard Lane Cutting	23	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Lizard Lane Cutting.pdf
+Low House Copse	24	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Low House Copse (ST43).pdf
+Make-Me-Rich Meadow	25	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Make Me Rich Meadow (ST15).pdf
+Marsden Limekilns	26	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Marsden Limekilns (ST6).pdf
+Marsden Old Quarry	27	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Marsden Old Quarry (ST43).pdf
+Marsden Quarry	28	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Marsden Quarry.pdf
+Monkton Pond and Wood	29	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Monkton Pond and Wood.pdf
+Boldon Colliery Former Railway Line	3	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Boldon Colliery Former Railway Line (ST29).pdf
+Mount Pleasant Marsh	30	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Mount Pleasant Marsh (ST12).pdf
+Newton Garths	31	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Newton Garths.pdf
+Primrose	32	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Primrose Nature Reserve (ST34).pdf
+Primrose Nature Reseve	32	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Primrose Nature Reserve (ST34).pdf
+"River Don, East House"	33	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\River Don East House.pdf
+"River Don, New Road"	34	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\River Don New Road.pdf
+"River Don, North Road"	35	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\River Don North Road.pdf
+River Don Salt Marsh	36	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\River Don Saltmarsh (ST33).pdf
+"River Don, West Boldon"	37	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\River Don West Boldon.pdf
+South Marine Park Lake	38	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\South Marine Park Lake (ST3).pdf
+South Shields Dunes	39	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\South Shields Dunes (ST2).pdf
+Boldon Crossings Pond	4	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Boldon Crossings Pond (ST25).pdf
+Station Burn	40	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Station Burn Boldon Colliery (ST30).pdf
+Straker Street	41	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Straker Street.pdf
+Strother House Farm	42	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Strother House Farm (ST18).pdf
+Temple Park East	43	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Temple Park East.pdf
+Temple Park West	44	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Temple Park West.pdf
+The Leas	45	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\The Leas.pdf
+Tilesheds Burn	46	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Tilesheds Burn (ST28).pdf
+Tilesheds Local Nature Reserve	47	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Tilesheds Nature Reserve (ST27).pdf
+Turner's Hill	48	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Turners Hill.pdf
+Undercliffe Pond	49	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Undercliffe Pond (ST11).pdf
+Boldon Flats North	5	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Boldon Flats (ST20).pdf
+Boldon Flats South	5	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Boldon Flats (ST20).pdf
+Boldon Flats West	5	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Boldon Flats (ST20).pdf
+Wardley Colliery	50	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Wardley Collliery.pdf
+Whitburn Firing Range	51	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Whitburn Firing Range.pdf
+Whitburn Point	52	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Whitburn Point (ST7).pdf
+Boldon Lake	6	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Boldon Lake (ST13).pdf
+Calf Close Burn	7	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Calf Close Burn (ST37).pdf
+Cemetary Road	8	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Cemetery Road.pdf
+Cleadon Hill Cliffs	9	South Tyneside	C:\ERIC\LWS Citations\Durham\LWS Citations\South Tyneside\PDFs\Cleadon Hill Cliffs (ST38).pdf
+Barmston Pond	SN1	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\1 Barmston Pond.pdf
+Copt Hill	SN10	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\10 Copt Hill.pdf
+Downhill Meadows	SN11	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\11 Downhill Meadows.pdf
+Elemore Golf Course	SN12	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\12 Elemore Golf Course.pdf
+Elemore Vale	SN13	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\13 Elemore Vale.pdf
+Eppleton Quarry	SN14	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\14 Eppleton Quarry.pdf
+Eppleton Railway	SN15	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\15 Eppleton Railway.pdf
+Follingsby Pond/River Don Streambank	SN16	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\16 Follingsby Pond River Don Streambank.pdf
+Foxcover Plantation	SN17	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\17 Foxcover Plantation.pdf
+Fulwell Meadows	SN18	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\18 Fulwell Meadows.pdf
+General's Wood	SN19	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\19 Generals wood.pdf
+Barons Quay Wood and Barons Quay	SN2	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\2 Barons Quay Wood and Barons Quay.pdf
+Grimestone Banks	SN20	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\20 Grimestone Banks.pdf
+Halliwell Banks	SN21	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\21 Halliwell Banks.pdf
+Hendon Cliffs	SN22	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\22 Hendon Cliffs.pdf
+Hendon Railway	SN23	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\23 Hendon Railway.pdf
+Herrington Hill Woodland	SN24	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\24 Herrington Hill Woodland.pdf
+Hetton Bogs West	SN25	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\25 Hetton Bogs West.pdf
+Hetton Lyons	SN26	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\26 Hetton Lyons.pdf
+Hetton Park	SN27	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\27 Hetton Park.pdf
+Houghton Hill Cut and Scarp	SN28	Sunderland	"C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\28 Houghton Hill, Cut and Scarp.pdf"
+Hylton Castle Grassland	SN29	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\29 Hylton Castle Grassland.pdf
+Blakeney Woods	SN3	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\3 Blakeney Woods.pdf
+Hylton Colliery Pond	SN30	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\30 Hylton Colliery Pond.pdf
+Hylton Dene	SN31	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\31 Hylton Dene.pdf
+Hylton Plantation	SN32	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\32 Hylton Plantation.pdf
+James Steel Park: Mount Pleasant Riverside	SN33	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\33 James Steel Park.pdf
+James Steel Park: Pattinson South Pond	SN34	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\34 James Steel Park_Pattinson S Pond.pdf
+Mere Knolls Cemetery	SN35	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\35 Mere Knolls Cemetery.pdf
+Mowbray Park	SN36	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\36 Mowbray Park.pdf
+Newport Dene	SN37	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\37 Newport Dene and Tunstall hill.pdf
+Newport Railway Cutting	SN38	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\38 Newport Railway Cutting.pdf
+North Dock Tufa	SN39	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\39 North Dock Tufa.pdf
+Burdon Dene	SN4	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\4 Burdon Dene.pdf
+Peepy Plantation	SN40	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\40 Peepy Plantation.pdf
+Penshaw Hill	SN41	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\41 Penshaw Hill.pdf
+Penshaw Pallion Railway	SN42	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\42 Penshaw Pallion Railway.pdf
+Penshaw Wood	SN43	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\43 Penshaw Wood.pdf
+Princess Anne Park	SN44	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\44 Princess Anne Park.pdf
+Rainton Meadows	SN45	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\45 Rainton Meadows.pdf
+Redburn Marsh	SN46	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\46 Redburn Marsh.pdf
+Robin House and Moorsley Marsh	SN47	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\47 Robin House Wood_Moorsley Marsh.pdf
+Roker Cliffs and Parson's Rocks	SN48	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\48 Roker Cliffs_Parsons Rocks.pdf
+Rough Dene	SN49	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\49 Rough Dene.pdf
+Carr Hill	SN5	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\5 Carr Hill.pdf
+Ryhope Dene	SN51	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\51 Ryhope Dene.pdf
+Ryhope Denemouth	SN52	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\52 Ryhope Denemouth.pdf
+Ryhope Dene Railway Cutting	SN53	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\53 Ryhope Dene Railway Cutting.pdf
+Severn Houses	SN54	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\54 Severn Houses.pdf
+South Hylton Dene	SN55	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\55 South Hylton Dene.pdf
+Springwell Ponds	SN56	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\56 Springwell Ponds.pdf
+Sunderland South Docks	SN57	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\57 Sunderland South Docks.pdf
+Tilesheds	SN58	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\58 Tilesheds.pdf
+Timber Beach	SN59	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\59 Timber Beach.pdf
+Cherry Knowle Dene	SN6	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\6 Cherry Knowle Dene-ds.pdf
+Usworth Pond	SN60	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\60 Usworth Pond.pdf
+Vigo Wood and Railway Embankment	SN61	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\61 Vigo Wood and Railway Embankment.pdf
+Warden Law Quarry	SN62	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\62 Warden Law Quarry.pdf
+Washington Western Highway	SN63	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\63 Washington Western Highway.pdf
+Washington Wildfowl and Wetlands Centre	SN64	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\64 Washington Wildfowl_Centre.pdf
+Wearmouth Riverside Park/Wearmouth Colliery	SN65	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\65 Wearmouth Riverside Park and Colliery.pdf
+Wearmouth Riverside Park/Wearmouth Colliery(2)	SN65	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\65 Wearmouth Riverside Park and Colliery.pdf
+Wear River Bank Woods	SN66	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\66 Wear River Bank Woods.pdf
+Whitburn Bents	SN67	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\67 Whitburn Bents.pdf
+Whitburn Steel Rocks	SN68	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\68 Whitburn Steel Rocks.pdf
+Willows Pond (formerly Newall's Pond)	SN69	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\69 Willows Pond.pdf
+Claxheugh Riverside	SN7	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\7 Claxheugh Riverside.pdf
+Worm Hill	SN70	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\70 Worm Hill.pdf
+The Clouds	SN8	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\8 The Clouds.pdf
+Colbeck Burn	SN9	Sunderland	C:\ERIC\LWS Citations\Durham\LWS Citations\Sunderland\PDf\9 Colbeck Burn.pdf
+"Coalway, Hazel and Jacky's Plantation Extension"	GAT 999	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT999 Coalway Plantation LWS citation.pdf
+Fell Farm (Extenstion)	GAT 50	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT50 Fell Farm.pdf
+Friars Goose	GAT 154	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT154 Friars Goose LWS citation.pdf
+Low Guards Wood	GAT 155	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT155 Low Guards Wood LWS citation.pdf
+River Derwent Extension	GAT 156	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT156 River Derwent LWS citation.pdf
+River Don	GAT 157	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT157 River Don LWS citation.pdf
+River Team Extension	GAT 158	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT158 River Team LWS citation.pdf
+River Tyne Extension	GAT 159	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT159 River Tyne LWS citation.pdf
+Team Colliery	GAT 160	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT160 Team Colliery LWS citation.pdf
+The Folly	GAT 161	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT161 The Folly LWS citation.pdf
+Twenty Pound Close	GAT 162	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT162 Twenty Pound Close Wood LWS citation.pdf
+West Kyo Farm	GAT 163	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT163West Kyo Farm Pasture LWS citation.pdf
+Wardley Manor	GAT 79	Gateshead	C:\ERIC\LWS Citations\Durham\LWS Citations\Gateshead\PDF\GAT79 Wardley Manor LWS citation.pdf
