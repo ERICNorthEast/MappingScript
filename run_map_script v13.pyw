@@ -961,7 +961,9 @@ class Application(Frame):
 ##as they may hold additional information of interest to you. "
 ##        self.DurhamBird_OA_Text = "\nYour search area contains records from Durham Bird Club. I advise you to contact them, \
 ##as they may hold additional information of interest to you. ***** CHECK - Outside DBC Area *****"
-        self.TeesmouthBirdBatBadgerText = "I would also advise you to contact Teesmouth Bird Club and Durham Bat and Badger Groups, \
+        ##self.TeesmouthBirdBatBadgerText = "I would also advise you to contact Teesmouth Bird Club and Durham Bat and Badger Groups, \
+##as they may also hold additional information of interest to you.\n"
+        self.TeesmouthBirdBatBadgerText = "I would also advise you to contact Teesmouth Bird Club and Durham Badger Group, \
 as they may also hold additional information of interest to you.\n"
         self.TeesmouthBirdText = "I would also advise you to contact Teesmouth Bird Club  \
 as they may also hold additional information of interest to you.\n"
